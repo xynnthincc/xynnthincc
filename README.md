@@ -24,10 +24,26 @@ A few projects I am proud of.
 
 ---
 
-## Stack
+## Tech Stack
 
+### Frontend
 <div align="center">
-<img src="https://skillicons.dev/icons?i=ts,js,react,next,tailwind,cs,dotnet,kotlin,androidstudio,php,laravel,nodejs,firebase,vercel,git,github,docker,vscode&perline=9" />
+<img src="https://skillicons.dev/icons?i=ts,js,react,next,tailwind,html,css&perline=9" />
+</div>
+
+### Backend
+<div align="center">
+<img src="https://skillicons.dev/icons?i=cs,dotnet,php,laravel,nodejs,express&perline=9" />
+</div>
+
+### Mobile
+<div align="center">
+<img src="https://skillicons.dev/icons?i=kotlin,androidstudio,firebase&perline=9" />
+</div>
+
+### Data and Infra
+<div align="center">
+<img src="https://skillicons.dev/icons?i=postgres,mysql,docker,vercel,git,github,vscode&perline=9" />
 </div>
 
 ---
