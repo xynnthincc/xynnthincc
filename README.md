@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/xynnthincc/xynnthincc/main/assets/header.svg?v=5" width="100%" alt="Zakii Maalik — Full Stack Developer" />
+<img src="https://raw.githubusercontent.com/xynnthincc/xynnthincc/main/assets/banner.svg" width="100%" alt="Zakii Maalik — Full Stack Developer" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2000&pause=500&color=A78BFA&center=true&vCenter=true&width=680&lines=Building+web+and+mobile+products;TypeScript+%C2%B7+Next.js+%C2%B7+.NET+%C2%B7+Kotlin+%C2%B7+Laravel;From+idea+to+production" />
 
