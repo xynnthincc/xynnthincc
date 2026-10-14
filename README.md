@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:06B6D4&height=190&section=header&text=xynnthincc&fontSize=52&fontAlignY=38&animation=fadeIn&fontColor=white&desc=Full+Stack+Developer&descAlignY=60&descSize=18" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:7C3AED,100:06B6D4&height=200&section=header&text=xynnthincc&fontSize=56&fontAlignY=40&animation=twinkling&fontColor=white&desc=Full+Stack+Developer&descAlignY=62&descSize=18" width="100%" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2000&pause=500&color=A78BFA&center=true&vCenter=true&width=680&lines=Building+web+and+mobile+products;TypeScript+%C2%B7+Next.js+%C2%B7+.NET+%C2%B7+Kotlin+%C2%B7+Laravel;From+idea+to+production" />
 
@@ -71,7 +71,7 @@ A few projects I am proud of.
   <img src="https://raw.githubusercontent.com/xynnthincc/xynnthincc/output/github-contribution-grid-snake-dark.svg" width="100%" />
 </picture>
 
-<img src="https://raw.githubusercontent.com/xynnthincc/xynnthincc/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=xynnthincc&theme=tokyonight&hide_border=true&area=true" width="100%" />
 </div>
 
 ---
