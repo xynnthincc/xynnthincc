@@ -70,6 +70,8 @@ A few projects I am proud of.
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/xynnthincc/xynnthincc/output/github-contribution-grid-snake.svg" />
   <img src="https://raw.githubusercontent.com/xynnthincc/xynnthincc/output/github-contribution-grid-snake-dark.svg" width="100%" />
 </picture>
+
+<img src="https://raw.githubusercontent.com/xynnthincc/xynnthincc/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%" />
 </div>
 
 ---
