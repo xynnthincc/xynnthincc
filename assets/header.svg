@@ -1,66 +1,102 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-label="xynnthincc — Full Stack Developer">
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-label="Zakii Maalik — Full Stack Developer">
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0%" stop-color="#05070a"/>
-      <stop offset="55%" stop-color="#120a26"/>
-      <stop offset="100%" stop-color="#061018"/>
+      <stop offset="0%" stop-color="#02040a"/>
+      <stop offset="40%" stop-color="#0d0a24"/>
+      <stop offset="75%" stop-color="#06152a"/>
+      <stop offset="100%" stop-color="#030712"/>
     </linearGradient>
-    <radialGradient id="orb1" cx="0.82" cy="0.28" r="0.55">
-      <stop offset="0%" stop-color="#7c3aed" stop-opacity="0.55"/>
-      <stop offset="100%" stop-color="#7c3aed" stop-opacity="0"/>
+    <radialGradient id="orbA" cx="0.78" cy="0.22" r="0.5">
+      <stop offset="0%" stop-color="#8b5cf6" stop-opacity="0.7"/>
+      <stop offset="100%" stop-color="#8b5cf6" stop-opacity="0"/>
     </radialGradient>
-    <radialGradient id="orb2" cx="0.18" cy="0.78" r="0.5">
-      <stop offset="0%" stop-color="#06b6d4" stop-opacity="0.45"/>
-      <stop offset="100%" stop-color="#06b6d4" stop-opacity="0"/>
+    <radialGradient id="orbB" cx="0.22" cy="0.62" r="0.55">
+      <stop offset="0%" stop-color="#22d3ee" stop-opacity="0.55"/>
+      <stop offset="100%" stop-color="#22d3ee" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="orbC" cx="0.55" cy="0.95" r="0.45">
+      <stop offset="0%" stop-color="#ec4899" stop-opacity="0.35"/>
+      <stop offset="100%" stop-color="#ec4899" stop-opacity="0"/>
     </radialGradient>
     <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0%" stop-color="#a855f7"/>
+      <stop offset="0%" stop-color="#c084fc"/>
+      <stop offset="50%" stop-color="#60a5fa"/>
       <stop offset="100%" stop-color="#22d3ee"/>
+    </linearGradient>
+    <linearGradient id="accentAnim" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#c084fc">
+        <animate attributeName="stop-color" values="#c084fc;#22d3ee;#c084fc" dur="6s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="100%" stop-color="#22d3ee">
+        <animate attributeName="stop-color" values="#22d3ee;#c084fc;#22d3ee" dur="6s" repeatCount="indefinite"/>
+      </stop>
     </linearGradient>
     <linearGradient id="title" x1="0" y1="0" x2="1" y2="0">
       <stop offset="0%" stop-color="#ffffff"/>
-      <stop offset="100%" stop-color="#c4b5fd"/>
+      <stop offset="100%" stop-color="#e9d5ff"/>
+    </linearGradient>
+    <linearGradient id="silhouette" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#0f172a" stop-opacity="0"/>
+      <stop offset="100%" stop-color="#0f172a" stop-opacity="0.9"/>
     </linearGradient>
     <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
-      <feGaussianBlur stdDeviation="4" result="blur"/>
+      <feGaussianBlur stdDeviation="5" result="blur"/>
       <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
     </filter>
-    <pattern id="grid" width="44" height="44" patternUnits="userSpaceOnUse">
-      <path d="M 44 0 L 0 0 0 44" fill="none" stroke="#1e293b" stroke-width="0.8" opacity="0.55"/>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#334155" stroke-width="0.6" opacity="0.35"/>
+    </pattern>
+    <pattern id="diags" width="80" height="80" patternUnits="userSpaceOnUse" patternTransform="rotate(25)">
+      <line x1="0" y1="0" x2="0" y2="80" stroke="#1e293b" stroke-width="0.6" opacity="0.25"/>
     </pattern>
   </defs>
 
-  <rect width="1200" height="300" fill="url(#bg)"/>
-  <rect width="1200" height="300" fill="url(#orb1)"/>
-  <rect width="1200" height="300" fill="url(#orb2)"/>
-  <rect width="1200" height="300" fill="url(#grid)"/>
+  <!-- base -->
+  <rect width="1200" height="320" fill="url(#bg)"/>
+  <!-- glow orbs -->
+  <rect width="1200" height="320" fill="url(#orbA)"/>
+  <rect width="1200" height="320" fill="url(#orbB)"/>
+  <rect width="1200" height="320" fill="url(#orbC)"/>
+  <!-- patterns -->
+  <rect width="1200" height="320" fill="url(#grid)"/>
+  <rect width="1200" height="320" fill="url(#diags)"/>
 
-  <!-- bottom silhouette horizon -->
-  <path d="M0 260 Q 300 220 600 250 T 1200 230 L 1200 300 L 0 300 Z" fill="#0b1220" opacity="0.7"/>
+  <!-- geometric silhouette shapes -->
+  <g opacity="0.35">
+    <polygon points="900,0 1200,0 1200,320 980,320" fill="#1e1b4b"/>
+    <polygon points="1040,0 1200,0 1200,160 1080,160" fill="#0c4a6e" opacity="0.5"/>
+  </g>
+
+  <!-- bottom horizon silhouette -->
+  <path d="M0 270 Q 200 230 420 260 T 820 245 T 1200 265 L 1200 320 L 0 320 Z" fill="url(#silhouette)"/>
+  <path d="M0 285 Q 350 260 700 280 T 1200 270 L 1200 320 L 0 320 Z" fill="#020617" opacity="0.95"/>
 
   <!-- left accent bar -->
-  <rect x="72" y="100" width="5" height="100" rx="2.5" fill="url(#accent)"/>
+  <rect x="72" y="96" width="6" height="110" rx="3" fill="url(#accent)"/>
 
   <!-- eyebrow -->
-  <text x="92" y="88" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="13" font-weight="600" letter-spacing="4" fill="#94a3b8">FULL STACK DEVELOPER</text>
+  <text x="96" y="84" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" font-weight="700" letter-spacing="5" fill="#a5b4fc">FULL STACK DEVELOPER</text>
 
   <!-- title -->
-  <text x="92" y="148" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="52" font-weight="800" fill="url(#title)" filter="url(#glow)">Zakii Maalik</text>
+  <text x="96" y="146" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="56" font-weight="800" fill="url(#title)" filter="url(#glow)">Zakii Maalik</text>
 
   <!-- handle -->
-  <text x="92" y="182" font-family="'Fira Code', ui-monospace, monospace" font-size="19" font-weight="500" fill="#cbd5e1">xynnthincc</text>
+  <text x="96" y="180" font-family="'Fira Code', ui-monospace, monospace" font-size="20" font-weight="500" fill="#e2e8f0">xynnthincc</text>
 
   <!-- subtitle -->
-  <text x="92" y="214" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="16" font-weight="400" fill="#94a3b8">Web · Mobile · Cloud · Web3</text>
+  <text x="96" y="212" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="16" font-weight="400" fill="#94a3b8">Web · Mobile · Cloud · Web3</text>
 
   <!-- animated accent divider -->
-  <rect x="92" y="242" width="240" height="3" rx="1.5" fill="url(#accent)">
-    <animate attributeName="width" values="240;440;240" dur="5s" repeatCount="indefinite"/>
+  <rect x="96" y="240" width="260" height="3.5" rx="1.75" fill="url(#accentAnim)">
+    <animate attributeName="width" values="260;480;260" dur="5s" repeatCount="indefinite"/>
   </rect>
 
   <!-- corner badge -->
-  <g transform="translate(1020, 36)">
-    <rect width="132" height="32" rx="16" fill="none" stroke="#a855f7" stroke-width="1.2" opacity="0.9"/>
-    <text x="66" y="21" text-anchor="middle" font-family="'Fira Code', ui-monospace, monospace" font-size="12" font-weight="600" fill="#e9d5ff">OPEN TO WORK</text>
+  <g transform="translate(1018, 34)">
+    <rect width="150" height="34" rx="17" fill="#0b1220" stroke="url(#accent)" stroke-width="1.3" opacity="0.95"/>
+    <circle cx="18" cy="17" r="4" fill="#22d3ee">
+      <animate attributeName="opacity" values="1;0.35;1" dur="2s" repeatCount="indefinite"/>
+    </circle>
+    <text x="80" y="22" text-anchor="middle" font-family="'Fira Code', ui-monospace, monospace" font-size="12" font-weight="600" fill="#e9d5ff">OPEN TO WORK</text>
   </g>
 </svg>
