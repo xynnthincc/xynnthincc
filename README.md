@@ -1,83 +1,142 @@
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:7C3AED,100:06B6D4&height=200&section=header&text=xynnthincc&fontSize=56&fontAlignY=40&animation=twinkling&fontColor=white&desc=Full+Stack+Developer&descAlignY=62&descSize=18" width="100%" />
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2000&pause=500&color=A78BFA&center=true&vCenter=true&width=680&lines=Building+web+and+mobile+products;TypeScript+%C2%B7+Next.js+%C2%B7+.NET+%C2%B7+Kotlin+%C2%B7+Laravel;From+idea+to+production" />
-
-<a href="https://portfolio-sage-nu-1xrek9h2ht.vercel.app"><img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
-<a href="https://github.com/xynnthincc"><img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-
+  <a href="https://github.com/xynnthincc">
+    <img src="https://raw.githubusercontent.com/xynnthincc/xynnthincc/main/assets/header.svg" width="100%" alt="Zakii Maalik — Full Stack Developer" />
+  </a>
 </div>
 
----
+**Full Stack Developer** — I ship web, mobile, and cloud products end to end.
 
-## Selected Work
-
-A few projects I am proud of.
-
-- [Hive](https://github.com/xynnthincc/Hive) — TypeScript
-- [SIPP](https://github.com/xynnthincc/SIPP) — TypeScript
-- [TrailLink](https://github.com/xynnthincc/TrailLink) — C# / .NET
-- [BESTARI](https://github.com/xynnthincc/BESTARI) — Android, Jetpack Compose, Firebase
-- [CredChain](https://github.com/xynnthincc/CredChain) — AI passport on BOT Chain
-- [Portfolio](https://github.com/xynnthincc/portfolio) — Next.js, Tailwind
+[Explore my repositories](https://github.com/xynnthincc?tab=repositories) · [Portfolio](https://portfolio-sage-nu-1xrek9h2ht.vercel.app)
 
 ---
 
-## Tech Stack
+## A little about me
+
+I'm **Zakii Maalik**, also known here as **xynnthincc**. Full stack developer focused on web and mobile products, with growing work in cloud and Web3.
+
+My projects range from a TypeScript service workspace to an Android asset management system, an AI-powered skill passport on BOT Chain, and a Next.js portfolio. I like being able to work on the interface, understand what happens behind it, and get the whole thing running.
+
+```
+name: Zakii Maalik
+handle: xynnthincc
+focus:
+  - Full stack development
+  - Web and mobile products
+  - Cloud and DevOps basics
+  - Web3 and Solidity
+currently_exploring:
+  - AI-assisted applications
+  - Cloud-native delivery
+```
+
+---
+
+## Selected work
+
+### [Hive ↗](https://github.com/xynnthincc/Hive)
+
+A TypeScript workspace I keep close at hand while building web products.
+
+`TypeScript`
+
+[View repository](https://github.com/xynnthincc/Hive)
+
+### [SIPP ↗](https://github.com/xynnthincc/SIPP)
+
+A TypeScript application I iterate on as a daily build surface.
+
+`TypeScript`
+
+[View repository](https://github.com/xynnthincc/SIPP)
+
+### [TrailLink ↗](https://github.com/xynnthincc/TrailLink)
+
+A C#/.NET application for tracking and linking workflows.
+
+`C#` `.NET`
+
+[View repository](https://github.com/xynnthincc/TrailLink)
+
+### [BESTARI ↗](https://github.com/xynnthincc/BESTARI)
+
+A modern Android infrastructure and asset management system. Jetpack Compose plus Firebase, built for inventory tracking, borrowing workflows, and damage reporting.
+
+`Kotlin` `Jetpack Compose` `Firebase` `Android`
+
+[View repository](https://github.com/xynnthincc/BESTARI)
+
+### [CredChain ↗](https://github.com/xynnthincc/CredChain)
+
+An AI-powered verifiable skill passport built on BOT Chain. Store, verify, and share certificates and achievements using blockchain rails.
+
+`TypeScript` `Solidity` `Web3`
+
+[View repository](https://github.com/xynnthincc/CredChain)
+
+### [Portfolio ↗](https://github.com/xynnthincc/portfolio)
+
+My personal portfolio site, built with Next.js and Tailwind CSS and deployed on Vercel.
+
+`Next.js` `React` `TypeScript` `Tailwind CSS`
+
+[View repository](https://github.com/xynnthincc/portfolio) · [Open site](https://portfolio-sage-nu-1xrek9h2ht.vercel.app)
+
+---
+
+## Toolkit
+
+These are languages and tools used across my repositories, not a proficiency ranking.
+
+### Languages
+<div align="center">
+<img src="https://skillicons.dev/icons?i=ts,js,cs,php,kotlin&theme=dark" />
+</div>
 
 ### Frontend
 <div align="center">
-<img src="https://skillicons.dev/icons?i=ts,js,react,next,tailwind,html,css&perline=9" />
+<img src="https://skillicons.dev/icons?i=react,next,tailwind,html,css&theme=dark" />
 </div>
 
 ### Backend
 <div align="center">
-<img src="https://skillicons.dev/icons?i=cs,dotnet,php,laravel,nodejs,express&perline=9" />
+<img src="https://skillicons.dev/icons?i=dotnet,laravel,nodejs,express&theme=dark" />
 </div>
 
 ### Mobile
 <div align="center">
-<img src="https://skillicons.dev/icons?i=kotlin,androidstudio,firebase&perline=9" />
+<img src="https://skillicons.dev/icons?i=kotlin,androidstudio,firebase&theme=dark" />
 </div>
 
-### Data and Infra
+### Infra and delivery
 <div align="center">
-<img src="https://skillicons.dev/icons?i=postgres,mysql,docker,vercel,git,github,vscode&perline=9" />
+<img src="https://skillicons.dev/icons?i=docker,postgres,mysql,vercel,git,github,vscode&theme=dark" />
 </div>
 
 ---
 
-## Metrics
+## GitHub, in numbers
 
 <div align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=xynnthincc&theme=tokyonight" width="32%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=xynnthincc&theme=tokyonight" width="32%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=xynnthincc&theme=tokyonight" width="32%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=xynnthincc&theme=github_dark" width="49%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=xynnthincc&theme=github_dark" width="49%" />
 </div>
 
 <div align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=xynnthincc&theme=tokyonight" width="100%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=xynnthincc&theme=github_dark" width="100%" />
 </div>
-
----
-
-## Contribution Graph
 
 <div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/xynnthincc/xynnthincc/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/xynnthincc/xynnthincc/output/github-contribution-grid-snake.svg" />
-  <img src="https://raw.githubusercontent.com/xynnthincc/xynnthincc/output/github-contribution-grid-snake-dark.svg" width="100%" />
-</picture>
-
-<img src="https://raw.githubusercontent.com/xynnthincc/xynnthincc/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%" />
+<img src="https://streak-stats.demolab.com?user=xynnthincc&theme=github-dark-blue&hide_border=true" width="100%" />
 </div>
+
+Cards come from third-party services and may be cached or temporarily unavailable. Language charts describe repository usage, not skill level.
 
 ---
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=xynnthincc&label=Profile+views&color=7C3AED&style=flat" />
+<img src="https://komarev.com/ghpvc/?username=xynnthincc&label=Profile+views&color=7c3aed&style=flat" />
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:4E7FD4,100:06B6D4&height=120&section=footer&animation=twinkling" width="100%" />
+### About this profile
+
+No private repository names or contents are shown here. The profile README and header SVG live in the special repository `xynnthincc/xynnthincc`.
