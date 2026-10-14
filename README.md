@@ -70,8 +70,6 @@ A few projects I am proud of.
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/xynnthincc/xynnthincc/output/github-contribution-grid-snake.svg" />
   <img src="https://raw.githubusercontent.com/xynnthincc/xynnthincc/output/github-contribution-grid-snake-dark.svg" width="100%" />
 </picture>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=xynnthincc&theme=tokyonight&hide_border=true&area=true" width="100%" />
 </div>
 
 ---
